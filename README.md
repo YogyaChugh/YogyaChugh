@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Yogya-coder
 - 👀 I’m interested in Python and C++ as well as Software Development
 - 🌱 I’m currently learning DSA in C++ along with practising 2-D games using SFML, SDL.
+- ⏳ Working on creating my own browser :)
 - 😎 I'm exploring OpenGL for a more graphical interaction with the OS.
 - 💞️ I’m looking to collaborate on learning advanced game dev concepts.
 - 📫 Contact me at yogyachugh.coder@gmail.com
