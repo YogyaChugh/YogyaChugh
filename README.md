@@ -44,6 +44,14 @@ class SnakeHustle {
 
 ---
 
+### ✨ Cool Animations & Effects ✨
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33F7FF&width=450&lines=Building+cool+stuff...;System-level+coding+%26+game+dev!;Open-source+enthusiast!;Always+learning!+🚀)
+
+![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ### 📡 Let's Connect:
 📩 Email: [yogya.developer@gmail.com](mailto:yogya.developer@gmail.com)  
 🌐 Portfolio: [your-portfolio-link.com](your-portfolio-link.com)  
