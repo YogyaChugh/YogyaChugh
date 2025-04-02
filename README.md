@@ -8,23 +8,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 GitHub Stats:
-
-![Yogya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YogyaChugh&show_icons=true&theme=radical&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YogyaChugh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### 🏆 GitHub Trophies:
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YogyaChugh&theme=onedark&row=1&margin-w=15)
-
-### 📈 Contribution Graph:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YogyaChugh&theme=radical)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL-073551?style=for-the-badge&logo=SimpleDirectMediaLayer&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YogyaChugh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yogya-chugh/)  
