@@ -48,20 +48,11 @@ class SnakeHustle {
         }
 };
 ```
-
----
-
-### 🌟 GitHub Activity & Contribution
-<p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
 ---
 
 ### 📡 Let's Connect:
-📩 **Email:** [yogya.developer@gmail.com](mailto:yogya.developer@gmail.com)  
-🌐 **Portfolio:** [your-portfolio-link.com](your-portfolio-link.com)  
-🔗 **LinkedIn:** [linkedin.com/in/yogya-chugh-464a45304](https://linkedin.com/in/yogya-chugh-464a45304)  
+📩 **Email:** [yogya.developer@gmail.com](mailto:yogya.developer@gmail.com)
+🔗 **LinkedIn:** [Yogya Chugh](https://linkedin.com/in/yogya-chugh-464a45304)  
 
 ---
 
