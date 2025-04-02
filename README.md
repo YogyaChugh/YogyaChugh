@@ -1,40 +1,54 @@
-## Welcome to My Digital Realm! 🚀
+## 🚀 Welcome to My Digital Playground! 🎮
 ### **Yogya Chugh – Engineering Creativity into Code**
 
-🌍 Crafting software that bridges the gap between imagination and technology.  
-🧠 Enthusiastic about logic-heavy development, system-level programming, and seamless user experiences.  
-❤️ Love making cool stuff and pushing boundaries in tech!  
-
-> **“Code is my canvas, logic is my brush.”** 🎨💻
+🌍 Turning logic into digital masterpieces.  
+🧠 Passionate about system-level programming, full-stack development & game engineering.  
+❤️ Love pushing boundaries & creating innovative tech solutions!
 
 ---
 
-### 🛠️ Tech Arsenal:
+### 🔥 My Digital Arsenal 🛠️
 
-- **Languages:** Python 🐍 | C++ ⚡
-- **Frameworks & Libraries:** Django, Flask, SDL, SFML, Pygame, Flet
-- **Databases:** MySQL
-- **Tools & Platforms:** Linux 🐧 | Git 🚀 | PostgreSQL 📊
-
----
-
-### 🔥 What I Do:
-✅ Build scalable, efficient, and performance-driven applications.  
-✅ Experiment with system-level programming and software architecture.  
-✅ Explore new frontiers in full-stack and game development.  
-✅ Contribute to open-source and engage with the developer community.  
+```py
+tech_stack = {
+    'Languages': ['Python 🐍', 'C++ ⚡'],
+    'Frameworks': ['Django', 'Flask', 'SDL', 'SFML', 'Pygame', 'Flet'],
+    'Databases': ['MySQL'],
+    'Platforms': ['Linux 🐧', 'Git 🚀', 'PostgreSQL 📊']
+}
+```
 
 ---
 
-### 🕹️ Current Project:
+### 🎯 What Drives Me:
+✅ Crafting high-performance software & games.  
+✅ Architecting scalable & efficient applications.  
+✅ Blending creativity with structured problem-solving.  
+✅ Contributing to open-source & sharing knowledge.
+
+---
+
+### 🕹️ Featured Project:
 🚀 **Snake Hustle** – A multiplayer Snake game in development!  
-🔗 **[Play the preview](https://snakehustle.netlify.app/)** 🎮
+🎮 **[Play the preview](https://snakehustle.netlify.app/)**
+
+```cpp
+// Game Dev in Action ⚡
+class SnakeHustle {
+    public:
+        void play() {
+            cout << "Join the fun at Snake Hustle! 🎮";
+        }
+};
+```
 
 ---
 
 ### 📡 Let's Connect:
-📩 Email: [yogya@example.com](mailto:yogya@example.com)  
+📩 Email: [yogya.developer@gmail.com](mailto:yogya.developer@gmail.com)  
 🌐 Portfolio: [your-portfolio-link.com](your-portfolio-link.com)  
 🔗 LinkedIn: [linkedin.com/in/yogya-chugh-464a45304](https://linkedin.com/in/yogya-chugh-464a45304)  
 
-🚀 **Keep innovating, keep breaking barriers.**
+---
+
+🚀 **Keep innovating, keep breaking barriers!**
