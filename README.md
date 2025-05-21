@@ -60,7 +60,7 @@ If you're into building, learning, or just messing with code for fun:
 
 📧 yogya.developer@gmail.com
 
-🌐 LinkedIn
+🌐 [LinkedIn](https://www.linkedin.com/in/yogya-chugh-464a45304/)
 
 ---
 
