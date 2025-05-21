@@ -1,59 +1,67 @@
-<h1 align="center">🚀 Welcome to My Digital Playground! 🎮</h1>
+<h1 align="center">👋 Hey, I’m Yogya – welcome to my GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=33F7FF&center=true&vCenter=true&width=550&lines=Building+cool+stuff...;System-level+coding+%26+game+dev!;Open-source+enthusiast!;Always+learning!+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FEEF&center=true&vCenter=true&width=550&lines=Code+everything+not+coded+!+hehe;" alt="Typing animation">
 </p>
 
 ---
 
-### 🎨 Who Am I?  
-🚀 **Yogya Chugh** – Engineering Creativity into Code!  
-🌍 Turning logic into digital masterpieces.  
-🧠 Passionate about system-level programming, full-stack development & game engineering.  
-❤️ Love pushing boundaries & creating innovative tech solutions!
+### 🧠 About Me
+- I’m a software developer who enjoys working on **big, ambitious ideas** — stuff like a **custom web browser**, **website builder**, **my own server**, and more.
+- Currently diving into **AI** and loving the logic behind it.
+- I’m not here for buzzwords — just building things I find cool, useful, or fun.
 
 ---
 
-### 🔥 My Digital Arsenal 🛠️
-
-```py
-tech_stack = {
-    'Languages': ['Python 🐍', 'C++ ⚡'],
-    'Frameworks': ['Django', 'Flask', 'SDL', 'SFML', 'Pygame', 'Flet'],
-    'Databases': ['MySQL'],
-    'Platforms': ['Linux 🐧', 'Git 🚀', 'PostgreSQL 📊']
-}
+### 🛠️ Languages & Tools I Use
+```bash
+Languages:   Python, C++, JavaScript (Rust is growing on me)
+Frameworks:  SDL / SDL2, SFML, Django, Flask, Pygame, Flet
+Tools:       Git, Linux, VS Code, Coffee
 ```
 
 ---
 
-### 🎯 What Drives Me:
-✔️ Crafting high-performance software & games.  
-✔️ Architecting scalable & efficient applications.  
-✔️ Blending creativity with structured problem-solving.  
-✔️ Contributing to open-source & sharing knowledge.
+### 📦 Stuff I’ve Built (Basic but Real)
+These are all basic projects — nothing flashy, but all a part of learning and getting better:
+
+- 🐍 Snake Game
+
+- 🏦 Bankory – A Monopoly-style game
+
+- 🌲 Timber Game
+
+- ❓ Hangman
+
+- 🧾 Input Textbox UI
+
+- 🤖 Robot Control App
+
+📌 Also tried out GSoC 2025 and SIH 2024 — didn’t make it, but learned a lot.
 
 ---
 
-### 🕹️ Featured Project:  
-🚀 **Snake Hustle** – A multiplayer Snake game in development!  
-🎮 **[Play the preview](https://snakehustle.netlify.app/)**
+### 🧪 Current Interests
+- AI and how logic drives intelligence
 
-```cpp
-// Game Dev in Action ⚡
-class SnakeHustle {
-    public:
-        void play() {
-            cout << "Join the fun at Snake Hustle! 🎮";
-        }
-};
-```
----
+- Rust (because it's fun breaking your brain a little)
 
-### 📡 Let's Connect:
-📩 **Email:** [yogya.developer@gmail.com](mailto:yogya.developer@gmail.com)
-🔗 **LinkedIn:** [Yogya Chugh](https://linkedin.com/in/yogya-chugh-464a45304)  
+- Backend systems, dev tools, and maybe making something that replaces something I already use
 
 ---
 
-<h3 align="center">🚀 Keep innovating, keep breaking barriers! 🔥</h3>
+### ☕ Minimal Setup, Max Output
+Coffee + Laptop + Internet = Ready to build
+
+---
+
+### 📬 Reach Out
+If you're into building, learning, or just messing with code for fun:
+
+📧 yogya.developer@gmail.com
+
+🌐 LinkedIn
+
+---
+
+<h3 align="center">👾 Let’s build cool shit. No fluff, just code.</h3>
