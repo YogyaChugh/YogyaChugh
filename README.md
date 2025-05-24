@@ -6,14 +6,14 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 - I’m a software developer who enjoys working on **big, ambitious ideas** — stuff like a **custom web browser**, **website builder**, **my own server**, and more.
 - Currently diving into **AI** and loving the logic behind it.
 - I’m not here for buzzwords — just building things I find cool, useful, or fun.
 
 ---
 
-### 🛠️ Languages & Tools I Use
+### Languages & Tools I Use
 ```bash
 Languages:   Python, C++, JavaScript (Rust is growing on me)
 Frameworks:  SDL / SDL2, SFML, Django, Flask, Pygame, Flet
@@ -22,7 +22,7 @@ Tools:       Git, Linux, VS Code, Coffee
 
 ---
 
-### 📦 Stuff I’ve Built (Basic but Real)
+### Stuff I’ve Built (Basic but Real)
 These are all basic projects — nothing flashy, but all a part of learning and getting better:
 
 - 🐍 Snake Game
@@ -41,7 +41,7 @@ These are all basic projects — nothing flashy, but all a part of learning and 
 
 ---
 
-### 🧪 Current Interests
+### Current Interests
 - AI and how logic drives intelligence
 
 - Rust (because it's fun breaking your brain a little)
@@ -50,12 +50,12 @@ These are all basic projects — nothing flashy, but all a part of learning and 
 
 ---
 
-### ☕ Minimal Setup, Max Output
+### Minimal Setup, Max Output
 Coffee + Laptop + Internet = Ready to build
 
 ---
 
-### 📬 Reach Out
+### Reach Out
 If you're into building, learning, or just messing with code for fun:
 
 📧 yogya.developer@gmail.com
