@@ -7,56 +7,19 @@
 ---
 
 ### About Me
-- I’m a software developer who enjoys working on **big, ambitious ideas** — stuff like a **custom web browser**, **website builder**, **my own server**, and more.
-- Currently diving into **AI** and loving the logic behind it.
-- I’m not here for buzzwords — just building things I find cool, useful, or fun.
+- I’m a software developer and I just love logic grinding.
+- Currently focusing on 2 things:-
+-   First is AI, just diving into what it is and getting to know more about llms, models and actually trying to bridge the gap b/w softwares and AI.
+-   Secondly, working on my own browser (mainly rendering engine) ! It's my dream project. Difficult but wanna make a one that beats Blink,Servo,etc.. (NO DOUBT, WILL DO IT MAN !)
+
+Generally speaking, I know Python, Cpp, a bit of javascript and is currently learning Rust for my browser project.
+Got my experience with lots of libraries (absolute fun) like Django, Flask, SDL, SFML, Pygame and what not man ! It's just read a documentation and use it in ur project.
+
+Tried for SIH 2024 AND GSOC 2025 (Django as organization) and is set to getting selected for SIH 2025 and GSOC 2026.
 
 ---
-
-### Languages & Tools I Use
-```bash
-Languages:   Python, C++, JavaScript (Rust is growing on me)
-Frameworks:  SDL / SDL2, SFML, Django, Flask, Pygame, Flet
-Tools:       Git, Linux, VS Code, Coffee
-```
-
----
-
-### Stuff I’ve Built (Basic but Real)
-These are all basic projects — nothing flashy, but all a part of learning and getting better:
-
-- 🐍 Snake Game
-
-- 🏦 Bankory – A Monopoly-style game
-
-- 🌲 Timber Game
-
-- ❓ Hangman
-
-- 🧾 Input Textbox UI
-
-- 🤖 Robot Control App
-
-📌 Also tried out GSoC 2025 and SIH 2024 — didn’t make it, but learned a lot.
-
----
-
-### Current Interests
-- AI and how logic drives intelligence
-
-- Rust (because it's fun breaking your brain a little)
-
-- Backend systems, dev tools, and maybe making something that replaces something I already use
-
----
-
-### Minimal Setup, Max Output
-Coffee + Laptop + Internet = Ready to build
-
----
-
 ### Reach Out
-If you're into building, learning, or just messing with code for fun:
+I would love to colab on any project related to softwares, AI and games (my 1st love, but not profession):
 
 📧 yogya.developer@gmail.com
 
