@@ -30,5 +30,5 @@ I would love to colab on any project related to softwares, AI and games (my 1st 
 <h3 align="center">👾 Let’s build cool shit. No fluff, just code.</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=9938&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" alt="Typing animation">
+  <img src="https://hackatime-badge.hackclub.com/U09218J0E94/DOM" alt="Typing animation">
 </p>
