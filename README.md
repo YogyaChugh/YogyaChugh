@@ -18,15 +18,6 @@ Got my experience with lots of libraries (absolute fun) like Django, Flask, SDL,
 
 Tried for GSOC 2025 (Django as organization) and is focused on getting selected for GSOC 2026.
 
-###  GitHub Stats
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogyaChugh&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/></p>
-    <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YogyaChugh&theme=dark&hide_border=true" alt="GitHub Streak"/><br/>
-
-</p>
-
-
 ---
 ### Reach Out
 I would love to colab on any project related to softwares, AI and games (my 1st love, but not profession):
@@ -38,7 +29,3 @@ I would love to colab on any project related to softwares, AI and games (my 1st 
 ---
 
 <h3 align="center">👾 Let’s build cool shit. No fluff, just code.</h3>
-
-<p align="center">
-  <img src="https://hackatime-badge.hackclub.com/U09218J0E94/DOM" alt="Typing animation">
-</p>
