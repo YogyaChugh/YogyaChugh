@@ -8,7 +8,7 @@
 
 ### About Me
 - I’m a 19 year old software developer and I just love logic grinding.
-- Not to brag, recently I got myself a __brand new laptop for free (GIGABYTE AERO X16 - 32 GB RAM, 1TB SSD, NVIDIA RTX 5070 GPU + COPILOT + PC)__ through [Summer of Making](https://summer.hackclub.com/) by [Hackclub](https://hackclub.com/) & Github. Check out [my post](https://www.linkedin.com/posts/yogya-chugh-464a45304_summerofmaking-hackclub-coding-activity-7388942854326476800-nzd7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3AoEwBqzerzaGBDOekaAHJg6Ot89Jd2oU) ! So if u are 18 or under, do visit [HackClub](https://hackclub.com) it's a great initiative :)
+- Not to brag, recently I got myself a `brand new laptop for free (GIGABYTE AERO X16 - 32 GB RAM, 1TB SSD, NVIDIA RTX 5070 GPU + COPILOT + PC)` through [Summer of Making](https://summer.hackclub.com/) by [Hackclub](https://hackclub.com/) & Github. Check out [my post](https://www.linkedin.com/posts/yogya-chugh-464a45304_summerofmaking-hackclub-coding-activity-7388942854326476800-nzd7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3AoEwBqzerzaGBDOekaAHJg6Ot89Jd2oU) ! So if u are 18 or under, do visit [HackClub](https://hackclub.com) it's a great initiative :)
 - Currently focusing on 2 things:-
 -   First is AI, just diving into what it is and getting to know more about llms, models and actually trying to bridge the gap b/w softwares and AI.
 -   Secondly, working on my own browser (mainly rendering engine) ! It's my dream project. Difficult but wanna make a one that beats Blink,Servo,etc.. (NO DOUBT, WILL DO IT MAN !)
