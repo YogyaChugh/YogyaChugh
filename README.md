@@ -15,7 +15,10 @@
 Generally speaking, I know Python, Cpp, a bit of javascript and is currently learning Rust for my browser project.
 Got my experience with lots of libraries (absolute fun) like Django, Flask, SDL, SFML, Pygame and what not man ! It's just read a documentation and use it in ur project.
 
-Tried for SIH 2024 AND GSOC 2025 (Django as organization) and is set to getting selected for SIH 2025 and GSOC 2026.
+Recently got myself a **new laptop for free (GIGABYTE AERO X16 - 32 GB RAM, 1TB SSD, NVIDIA RTX 5070 GPU + COPILOT + PC)** through Summer of Making by Hackclub & Github.
+Check out my post !
+
+Tried for GSOC 2025 (Django as organization) and is set to getting selected for GSOC 2026.
 
 ###  GitHub Stats
 <p>
