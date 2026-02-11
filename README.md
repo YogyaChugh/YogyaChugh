@@ -1,7 +1,6 @@
 # Hey, I'm Yogya 👋
 
-19-year-old developer building tools that matter. Passionate about **neural networks**, **systems programming**, and creating solutions that solve real problems.
-I am much curious about how a simple software like a browser has changed lives from relying on books to Stackoverflow and how the shift is happening again due to neural networks.
+19-year-old developer building tools that matter. Curious about **neural networks**, **systems programming** and **browsers**, the web mystery.
 
 Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
@@ -39,19 +38,22 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 ## 🧠 Currently Learning
 
-Deep diving into **neural networks** and ML fundamentals. Exploring them i guess :)
+Deep diving into **neural networks** and ML fundamentals. Exploring them for fun :)
 
 ---
 
 ## Failures
 - I know wierd, but they actually taught me
 - GSOC 2025, but that got me into how to contribute in open source and actually opened my way into knowing so much stuff cause i got my idea for independent browser from open source only.
-- SIH 2024, 2025 taught me about working with teams as we hustled together working on our project on ** Smart Tourism ** juggling with Blockchain, geofencing, maps and softwares. It was actually the gateway for knowing the importance about why DevOps exists.
+- SIH 2024, 2025 taught me about working with teams as we hustled together working on our project on **Smart Tourism** juggling with Blockchain, geofencing, maps and softwares. It was actually the gateway for knowing the importance about why DevOps exists.
 
 
 ## 🎮 Fun Stuff
 
-I made this game in pygame and deployed on itch, it's not bad. It's a very old game which i remade, try if u like 
+I made this cross-platform ( web too ) game in pygame with a deployed server, it's not bad. It's a very old game which i remade, try if u like [Timberly](https://yogyachugh.github.io/Timberly/) . It's got a leaderboard if u wanna compete too. 
+
+Shout out to https://www.pythonanywhere.com
+
 ---
 
 ## 📫 Let's Connect
