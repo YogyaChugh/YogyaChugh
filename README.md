@@ -6,7 +6,7 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**: Python • Rust • C++  
 **Web & Backend**: Django • Flask  
@@ -15,7 +15,7 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
 **Android Native for Python/Rust** - Making native Android development accessible from Python and Rust, not just Java/Kotlin cause even though libraries exist, they ain't native and create bulky apps (mine was 200 mb lol). Semester project (team of 3).
 
@@ -25,7 +25,7 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 ---
 
-## 🎓 Experience, Contribution, Achievements blah blah
+## Experience, Contribution, Achievements blah blah
 
 - Worked through my summer of 2025 spanning 3 months (July-September) coded 5 projects totalling 394.5 hours (obviously not contiguous lol) and got myself a GIGABYTE laptop (Ryzen 7, RTX 5070, 32GB RAM) via Hack Club's Summer of Making for free.
 - Built and deployed production ready android app & server (using FastAPI) for my uncle's business
@@ -36,11 +36,6 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 ---
 
-## 🧠 Currently Learning
-
-Deep diving into **neural networks** and ML fundamentals. Exploring them for fun :)
-
----
 
 ## Failures
 - I know wierd, but they actually taught me
@@ -48,7 +43,7 @@ Deep diving into **neural networks** and ML fundamentals. Exploring them for fun
 - SIH 2024, 2025 taught me about working with teams as we hustled together working on our project on **Smart Tourism** juggling with Blockchain, geofencing, maps and softwares. It was actually the gateway for knowing the importance about why DevOps exists.
 
 
-## 🎮 Fun Stuff
+## Fun Stuff
 
 I made this cross-platform ( web too ) game in pygame with a deployed server, it's not bad. It's a very old game which i remade, try if u like [Timberly](https://yogyachugh.github.io/Timberly/) . It's got a leaderboard if u wanna compete too. 
 
