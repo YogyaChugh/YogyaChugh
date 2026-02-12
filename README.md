@@ -21,7 +21,7 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 **Webelo** - Independent rendering engine (browser) with zero dependencies which can be used separately or can be embedded in any language/GUI library (e.g. Pygame, etc..) . Aiming for completion by July 2026, cause my future projects rely on it.
 
-**Pippo** - 40% complete. A navigation robot that helps students and people navigate around campus. Combines robotics with practical utility.
+**Pippo** - A navigation robot that helps students and people navigate around campus. Working with friends :)
 
 ---
 
