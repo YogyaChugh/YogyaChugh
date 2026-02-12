@@ -27,7 +27,7 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 ## Experience, Contribution, Achievements blah blah
 
-- Worked through my summer of 2025 spanning 3 months (July-September) coded 5 projects totalling 394.5 hours (obviously not contiguous lol) and got myself a GIGABYTE laptop (Ryzen 7, RTX 5070, 32GB RAM) via Hack Club's Summer of Making for free.
+- Worked through my summer of 2025 spanning 3 months (July-September) coded 5 projects totalling 414+ hours (obviously not contiguous lol) and got myself a GIGABYTE laptop (Ryzen 7, RTX 5070, 32GB RAM) via Hack Club's Summer of Making for free.
 - Built and deployed production ready android app & server (using FastAPI) for my uncle's business
 - Attempted GSOC 2025 (Django) — Applying for GSOC 2026
 - Contributed to Django, Hack Club, and my personal projects lol
