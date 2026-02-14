@@ -1,6 +1,6 @@
 # Hey, I'm Yogya 👋
 
-19-year-old developer building tools that matter. Curious about **neural networks**, **systems programming** and **browsers**, the web mystery.
+19-year-old developer building tools that matter. Curious about **neural networks** and **browsers**, the web mystery.
 
 Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
