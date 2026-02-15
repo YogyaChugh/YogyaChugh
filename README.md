@@ -59,3 +59,5 @@ Shout out to https://www.pythonanywhere.com
 ---
 
 Open to collaborations on interesting projects if u like, i ain't got issue with any language as long as they have good documentation like django.
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YogyaChugh)](https://git.io/streak-stats)
