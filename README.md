@@ -19,8 +19,6 @@ Currently working on **Webelo** (independent browser engine) and GSOC 2026.
 
 **Android Native for Python/Rust** - Making native Android development accessible from Python and Rust, not just Java/Kotlin cause even though libraries exist, they ain't native and create bulky apps (mine was 200 mb lol). Semester project (team of 3).
 
-**Webelo** - Independent rendering engine (browser) with zero dependencies which can be used separately or can be embedded in any language/GUI library (e.g. Pygame, etc..) . Aiming for completion by July 2026, cause my future projects rely on it.
-
 **Pippo** - A navigation robot that helps students and people navigate around campus. Working with friends :)
 
 ---
