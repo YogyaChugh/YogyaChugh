@@ -8,7 +8,7 @@
 
 ## Hey, I'm Yogya 👋
 
-I build things to find out how they work. Right now I'm a **Software Engineering Intern at [Meant2Bae](https://www.meant2bae.com)**, building a cross-platform app for a freelance client, and working on **AnyStudio** on the side.
+I build things to find out how they work. Right now I'm a **Software Engineering Intern at [Meant2Bae](https://www.meant2bae.com)**, building **[ScreenDemons](https://screendemons.app)** as a freelancer, and working on **AnyStudio** on the side.
 
 My whole résumé is a comic at **[yogya.dev](https://yogya.dev)**. It's the fastest way to see what I've done, and probably the only résumé with a "Who's reading?" button.
 
@@ -16,12 +16,14 @@ My whole résumé is a comic at **[yogya.dev](https://yogya.dev)**. It's the fas
 
 - 💼 **2 paid internships.** Now at Meant2Bae. Before that, at Vardhman Electricals, I built **[Vardhman Saathi](https://vardhmansaathi.shop)** end to end: an Android app, an admin desktop app and the backend. 200+ people use it at once, and it costs **$0 a month** to run.
 - 🐍 **A fix merged into Django.** [django/django #19295](https://github.com/django/django/pull/19295) made the template engine show the right error instead of a confusing one.
-- 💻 **Won a laptop by coding all summer.** 450+ hours across 4 projects in Hack Club's Summer of Making 2025 got me a Gigabyte Aero X16 and $25 of Steam games.
-- 🤖 **3rd place, twice.** Pippo, our multilingual navigation robot, placed at hackathons at the University of Derby and Ulster University in 2025.
+- 💻 **Won a laptop by coding all summer.** 450+ hours across 4 projects in Hack Club's Summer of Making 2025 got me a Gigabyte Aero X16 and $25 of Steam credit, plus Red Dead Redemption 2 and Far Cry 4.
+- 🤖 **3rd place at two international hackathons.** Pippo, our multilingual robot guide, won $50 each time, at the University of Derby and Ulster University (UK) in 2025.
+- 🧑‍💻 **Started a tech club.** Founded and led PIET Comp Techies at my college and ran Frontend Frenzy, a website-building contest.
 
 ## What I'm building
 
-- **[AnyStudio](https://yogya.dev/#ep9)**: describe an app in plain words or drag it together, and get a real native Android and iPhone app. Written in Rust, in development.
+- **[ScreenDemons](https://screendemons.app)** (freelance): an iPhone and Android app that cuts screen time through challenges with friends.
+- **[AnyStudio](https://yogya.dev/#anystudio)**: describe an app in plain words or drag it together, and get a real native Android and iPhone app. Written in Rust, in development.
 - **[Webelo](https://github.com/YogyaChugh/Webelo)**: a C++ library that implements the WHATWG DOM standard, with Python bindings and a viewer that draws any web page as a tree. The long-term goal is a full browser.
 - **[Timberly](https://yogya-chugh.itch.io/timberly)**: a lumberjack game with an online leaderboard, for the web, Windows, macOS and Linux. [Play it](https://yogya-chugh.itch.io/timberly) or [read the code](https://github.com/YogyaChugh/Timberly).
 
@@ -59,4 +61,4 @@ Open to freelance projects and collaborations, in any language with good docs.
   <a href="https://hackclub.slack.com/team/U09218J0E94"><img src="https://img.shields.io/badge/Hack_Club_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Hack Club Slack"></a>
 </p>
 
-<a href="https://yogya.dev/#live"><img src="https://streak-stats.demolab.com/?user=YogyaChugh&background=FFFDF5&border=111318&stroke=111318&ring=E8473F&fire=E8473F&currStreakNum=111318&sideNums=111318&currStreakLabel=E8473F&sideLabels=111318&dates=555555&border_radius=0" alt="Yogya Chugh's GitHub contribution streak"></a>
+<a href="https://yogya.dev/#github"><img src="https://streak-stats.demolab.com/?user=YogyaChugh&background=FFFDF5&border=111318&stroke=111318&ring=E8473F&fire=E8473F&currStreakNum=111318&sideNums=111318&currStreakLabel=E8473F&sideLabels=111318&dates=555555&border_radius=0" alt="Yogya Chugh's GitHub contribution streak"></a>
