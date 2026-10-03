@@ -36,10 +36,10 @@ My whole résumé is a comic at **[yogya.dev](https://yogya.dev)**. It's the fas
 ## Latest from the blog
 
 <!-- BLOG-POST-LIST:START -->
+- [My first open-source contribution](https://yogya.dev/blogs/first_open_source)
 - [Running a real product for $0 a month](https://yogya.dev/blogs/vardhman)
 - [Implementing the WHATWG DOM in C++](https://yogya.dev/blogs/whatwg_dom)
 - [450 hours, 4 ships, one laptop](https://yogya.dev/blogs/summer_of_making)
-- [My first open-source contribution](https://yogya.dev/blogs/first_open_source)
 <!-- BLOG-POST-LIST:END -->
 
 ## Failures (they taught me the most)
