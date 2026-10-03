@@ -54,7 +54,7 @@ My whole résumé is a comic at **[yogya.dev](https://yogya.dev)**. It's the fas
 Open to freelance projects and collaborations, in any language with good docs.
 
 <p>
-  <a href="mailto:yogya.developer@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:build@yogya.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://calendly.com/yogya-chugh/30min"><img src="https://img.shields.io/badge/Book_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Book a 30-minute call"></a>
   <a href="https://www.linkedin.com/in/yogyachugh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.com/users/1114938970883772427"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
