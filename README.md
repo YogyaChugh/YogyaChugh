@@ -10,7 +10,7 @@
 
 I build things to find out how they work. Right now I'm a **Software Engineering Intern at [Meant2Bae](https://www.meant2bae.com)**, building **[ScreenDemons](https://screendemons.app)** as a freelancer, and working on **AnyStudio** on the side.
 
-My whole résumé is a comic at **[yogya.dev](https://yogya.dev)**. It's the fastest way to see what I've done, and probably the only résumé with a "Who's reading?" button.
+My whole résumé is a comic at **[yogya.dev](https://yogya.dev)**. It's the fastest way to see what I've done.
 
 ## Highlights
 
